@@ -2,5 +2,4 @@
 this is a demo2 
 <br>
 <p>hello</p>
-this is made for demo pupose
-this is shreya
+this is made for demo pupose only
